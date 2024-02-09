@@ -8,4 +8,4 @@
 ### HTML 시리즈
 * [유노코딩 강의 1 : HTML이란 무엇인가요?](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic1.md)
 * [유노코딩 강의 2 : 개발자 도구와 코드 에디터에 대해서](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic2.md)
-* [유노코딩 강의 3 : HTML 코드 기초 문법을 알아봅시다.](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic1.md)
+* [유노코딩 강의 3 : HTML 코드 기초 문법을 알아봅시다.](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic3.md)
