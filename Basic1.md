@@ -1,6 +1,6 @@
 ## 1장 html이란 무엇인가
 
-![alt text](image-1.png)
+![alt text](Img/image-1.png)
 
 * html은 HyperText Markup Language를 의미합니다.
 
