@@ -15,9 +15,6 @@
 * [유노코딩 강의 3 : HTML 코드 기초 문법을 알아봅시다.](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic3.md)
 * [유노코딩 강의 4 : HTML 문서의 기본 구조란?](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic4.md)
 * [유노코딩 강의 5 : 텍스트 태그 사용 방법과 특징에 대해 알아봅시다.](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic5.md)
-<<<<<<< HEAD
 * [유노코딩 강의 6 : 태그의 구분과 인라인 텍스트 요소란?](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic6.md)
 * [유노코딩 강의 7 : 이미지 표시하기](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic7.md)
 * [유노코딩 강의 8 : 컨테이너와 전역속성](https://github.com/sangjun1126/HCJ_Basic/blob/main/Basic8.md)
-=======
->>>>>>> 1d06161fb01a8c42a12058aa4cbb43e7f6192c60
