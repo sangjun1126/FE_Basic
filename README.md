@@ -1,5 +1,4 @@
 ## YouTube와 인프런 강의를 공부하면서 만드는 html,css,js 설명 모음집!
-
 ### 참고자료
 
 * HTML 시리즈 - Youtube 유노코딩 : 입문자를 위한 HTML 강의
